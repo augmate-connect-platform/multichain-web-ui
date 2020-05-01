@@ -1,0 +1,13 @@
+# Define your MultiChain node credentials below.
+
+default.name=iceberg                  # name to display in the web interface
+default.rpchost=bops.morpheuslabs.io              # IP address of MultiChain node
+default.rpcport=25965                  # usually default-rpc-port from params.dat
+default.rpcuser=admin         # username for RPC from multichain.conf
+default.rpcpassword=lyOkoBAoZ # password for RPC from multichain.conf
+
+# You can configure support for other nodes using a word other than 'default':
+#
+# another.name=...
+# another.rpchost=...
+# ...etc...
